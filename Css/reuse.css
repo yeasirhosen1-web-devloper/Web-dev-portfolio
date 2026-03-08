@@ -38,7 +38,13 @@
 .section-description{
     font-size: 18px;
     color: #757575;
+    margin-top: 30px;
+ 
 }
 .secendary-bg{
     background-color: #FFF8F3;
+}
+.text-center{
+    text-align: center;
+
 }
