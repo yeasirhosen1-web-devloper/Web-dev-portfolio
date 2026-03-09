@@ -113,3 +113,14 @@ color: #757575;
     text-align: justify;
     margin-top: 20px;
 }
+.resume{
+      margin-top: 130px;
+}
+ .resume-container{
+    display: flex;
+    gap: 24px;
+  
+ }
+ .resume-btn{
+    margin-top: 50px;
+ }
